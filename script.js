@@ -24,6 +24,6 @@ document.getElementById('psw').innerHTML =
 
 </p>
 `;
-
+console.log(`${firstname}${lastname}${color}24`);
 
 
