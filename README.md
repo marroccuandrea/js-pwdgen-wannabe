@@ -1,6 +1,6 @@
 Password generator
 ===
-# Svolgimento
+## Svolgimento
 
 1. Chiedo all'utente il nome e lo salvo in una variabile.
 2. Chiedo all'utente il suo cognome e salvo la variabile.
